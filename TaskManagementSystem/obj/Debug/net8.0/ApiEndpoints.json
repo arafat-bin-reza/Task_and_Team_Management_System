@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "TaskManagement.API.Controllers.LoginModel",
+        "Type": "TaskManagement.Domain.Entities.Login",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "TaskManagement.API.Controllers.RegisterModel",
+        "Type": "TaskManagement.Domain.Entities.Register",
         "IsRequired": true
       }
     ],

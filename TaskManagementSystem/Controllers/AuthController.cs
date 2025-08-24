@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration; // Add this to use IConfiguration
 using System;
 using System.Threading.Tasks;
+using TaskManagement.Domain.Entities;
 
 namespace TaskManagement.API.Controllers
 {
@@ -22,7 +23,7 @@ namespace TaskManagement.API.Controllers
 
         [HttpPost("login")]
         [AllowAnonymous]
-        public async Task<IActionResult> Login([FromBody] LoginModel model)
+        public async Task<IActionResult> Login([FromBody] Login model)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             var token = await _authService.LoginAsync(model.Email, model.Password);
@@ -35,25 +36,11 @@ namespace TaskManagement.API.Controllers
 
         [HttpPost("register")]
         [AllowAnonymous]
-        public async Task<IActionResult> Register([FromBody] RegisterModel model)
+        public async Task<IActionResult> Register([FromBody] Register model)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             await _authService.RegisterAsync(model.FullName, model.Email, model.Password, model.Role);
             return Ok(new { Message = "User registered successfully" });
         }
-    }
-
-    public class LoginModel
-    {
-        public string Email { get; set; }
-        public string Password { get; set; }
-    }
-
-    public class RegisterModel
-    {
-        public string FullName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public string Role { get; set; } // e.g., "Admin", "Manager", "Employee"
     }
 }
