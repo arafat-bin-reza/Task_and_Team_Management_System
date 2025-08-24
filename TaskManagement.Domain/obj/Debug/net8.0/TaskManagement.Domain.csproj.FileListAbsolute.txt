@@ -1,0 +1,11 @@
+D:\Selise On-site interview\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+D:\Selise On-site interview\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Selise On-site interview\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
