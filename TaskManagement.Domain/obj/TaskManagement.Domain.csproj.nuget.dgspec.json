@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {}
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "projectName": "TaskManagement.Domain",
-        "projectPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Arafat Bin Reza\\.nuget\\packages\\",
-        "outputPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\obj\\",
+        "outputPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arafat Bin Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",

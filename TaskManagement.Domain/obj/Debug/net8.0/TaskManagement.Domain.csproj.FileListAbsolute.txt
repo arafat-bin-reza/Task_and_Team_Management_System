@@ -9,3 +9,15 @@ D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagemen
 D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
 D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
 D:\Selise On-site interview\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+D:\Task_and_Team_Management_System\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.sourcelink.json
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll

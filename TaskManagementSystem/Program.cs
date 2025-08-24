@@ -13,6 +13,9 @@ using TaskManagement.Application.Commands.Teams;
 using TaskManagement.Application.Commands.Users;
 using TaskManagement.Application.Queries.Teams;
 using TaskManagement.Application.Queries.Users;
+using TaskManagement.APi.Middleware;
+using Domain.Services;
+using Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +32,9 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<ITeamRepository, TeamRepository>();
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+
+builder.Services.AddScoped<IAuthService, AuthService>();
+
 
 // Task Handlers
 builder.Services.AddScoped<CreateTaskCommandHandler>();
@@ -102,7 +108,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
+app.UseMiddleware<ExceptionMiddleware>();
+app.UseMiddleware<RequestLoggingMiddleware>();
+app.UseCors("AllowAll");
 
 app.MapControllers();
 

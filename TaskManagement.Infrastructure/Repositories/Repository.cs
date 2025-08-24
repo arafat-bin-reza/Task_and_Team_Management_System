@@ -19,7 +19,7 @@ namespace TaskManagement.Infrastructure.Repositories
 
             public Repository(AppDbContext context)
             {
-                _context = context ?? throw new ArgumentNullException(nameof(context));
+                _context = context;
                 _dbSet = _context.Set<T>();
             }
 

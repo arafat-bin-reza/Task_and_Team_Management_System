@@ -15,3 +15,21 @@ D:\Selise On-site interview\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskM
 D:\Selise On-site interview\TaskManagement.Infrastructure\obj\Debug\net8.0\refint\TaskManagement.Infrastructure.dll
 D:\Selise On-site interview\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.pdb
 D:\Selise On-site interview\TaskManagement.Infrastructure\obj\Debug\net8.0\ref\TaskManagement.Infrastructure.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Application.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Application.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.sourcelink.json
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskMana.BCA0E1A6.Up2Date
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\refint\TaskManagement.Infrastructure.dll
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Infrastructure\obj\Debug\net8.0\ref\TaskManagement.Infrastructure.dll

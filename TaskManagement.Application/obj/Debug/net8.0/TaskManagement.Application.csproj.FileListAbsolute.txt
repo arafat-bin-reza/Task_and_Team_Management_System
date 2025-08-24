@@ -13,3 +13,19 @@ D:\Selise On-site interview\TaskManagement.Application\obj\Debug\net8.0\TaskMana
 D:\Selise On-site interview\TaskManagement.Application\obj\Debug\net8.0\refint\TaskManagement.Application.dll
 D:\Selise On-site interview\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.pdb
 D:\Selise On-site interview\TaskManagement.Application\obj\Debug\net8.0\ref\TaskManagement.Application.dll
+D:\Task_and_Team_Management_System\TaskManagement.Application\bin\Debug\net8.0\TaskManagement.Application.deps.json
+D:\Task_and_Team_Management_System\TaskManagement.Application\bin\Debug\net8.0\TaskManagement.Application.dll
+D:\Task_and_Team_Management_System\TaskManagement.Application\bin\Debug\net8.0\TaskManagement.Application.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Application\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Task_and_Team_Management_System\TaskManagement.Application\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.csproj.AssemblyReference.cache
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.AssemblyInfoInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.AssemblyInfo.cs
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.sourcelink.json
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskMana.B5C26166.Up2Date
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.dll
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\refint\TaskManagement.Application.dll
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.pdb
+D:\Task_and_Team_Management_System\TaskManagement.Application\obj\Debug\net8.0\ref\TaskManagement.Application.dll

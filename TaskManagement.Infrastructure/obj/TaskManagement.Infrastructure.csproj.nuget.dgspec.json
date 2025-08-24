@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Selise On-site interview\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Selise On-site interview\\TaskManagement.Application\\TaskManagement.Application.csproj": {
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\TaskManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Selise On-site interview\\TaskManagement.Application\\TaskManagement.Application.csproj",
+        "projectUniqueName": "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\TaskManagement.Application.csproj",
         "projectName": "TaskManagement.Application",
-        "projectPath": "D:\\Selise On-site interview\\TaskManagement.Application\\TaskManagement.Application.csproj",
+        "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\TaskManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Arafat Bin Reza\\.nuget\\packages\\",
-        "outputPath": "D:\\Selise On-site interview\\TaskManagement.Application\\obj\\",
+        "outputPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arafat Bin Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
-                "projectPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
+              "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+                "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "projectName": "TaskManagement.Domain",
-        "projectPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Arafat Bin Reza\\.nuget\\packages\\",
-        "outputPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\obj\\",
+        "outputPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arafat Bin Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\Selise On-site interview\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
+    "D:\\Task_and_Team_Management_System\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Selise On-site interview\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Task_and_Team_Management_System\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
         "projectName": "TaskManagement.Infrastructure",
-        "projectPath": "D:\\Selise On-site interview\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Arafat Bin Reza\\.nuget\\packages\\",
-        "outputPath": "D:\\Selise On-site interview\\TaskManagement.Infrastructure\\obj\\",
+        "outputPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arafat Bin Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,11 +165,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Selise On-site interview\\TaskManagement.Application\\TaskManagement.Application.csproj": {
-                "projectPath": "D:\\Selise On-site interview\\TaskManagement.Application\\TaskManagement.Application.csproj"
+              "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\TaskManagement.Application.csproj": {
+                "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Application\\TaskManagement.Application.csproj"
               },
-              "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
-                "projectPath": "D:\\Selise On-site interview\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
+              "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+                "projectPath": "D:\\Task_and_Team_Management_System\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
               }
             }
           }
@@ -192,6 +192,14 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             }
           },
           "imports": [
